@@ -1,0 +1,9 @@
+<BranchVCSpec>
+	<PkgGUID>{A72E281E-DB63-47fe-A9FF-25675A94760F}</PkgGUID>
+	<XMLPath>Мастер - Подсистема А.xml</XMLPath>
+	<Config>
+		<GUID>RUCM</GUID>
+		<LocalPath>%RUCM%</LocalPath>
+		<Type>2</Type>
+	</Config>
+</BranchVCSpec>
