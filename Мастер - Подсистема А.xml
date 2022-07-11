@@ -318,7 +318,7 @@
 										</UML:AssociationEnd>
 									</UML:Association.connection>
 								</UML:Association>
-								<UML:Actor name="Actor A" xmi.id="EAID_CFCECDAE_449F_442b_9E54_F8D8BF0512D1" visibility="public" namespace="EAPK_E4C99CEB_FF1E_4164_AD14_9DC4DF29590E" isRoot="false" isLeaf="false" isAbstract="false">
+								<UML:Actor name="Actor A (the first one)" xmi.id="EAID_CFCECDAE_449F_442b_9E54_F8D8BF0512D1" visibility="public" namespace="EAPK_E4C99CEB_FF1E_4164_AD14_9DC4DF29590E" isRoot="false" isLeaf="false" isAbstract="false">
 									<UML:ModelElement.taggedValue>
 										<UML:TaggedValue tag="isSpecification" value="false"/>
 										<UML:TaggedValue tag="ea_stype" value="Actor"/>
