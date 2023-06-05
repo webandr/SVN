@@ -1,0 +1,9 @@
+<BranchVCSpec>
+	<PkgGUID>{64AA4135-6446-45af-BDA9-940B18C667DE}</PkgGUID>
+	<XMLPath>ea9\940B18C667DE.xml</XMLPath>
+	<Config>
+		<GUID>RUCM</GUID>
+		<LocalPath>%RUCM%</LocalPath>
+		<Type>2</Type>
+	</Config>
+</BranchVCSpec>
